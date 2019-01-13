@@ -13,7 +13,7 @@ function angkaPalindrome(num) {
   }
 }
 
-// TEST CASES
+// TEST CASES //
 console.log(angkaPalindrome(8)); // 9
 console.log(angkaPalindrome(10)); // 11
 console.log(angkaPalindrome(117)); // 121

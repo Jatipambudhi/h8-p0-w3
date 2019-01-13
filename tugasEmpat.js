@@ -36,4 +36,6 @@ function dataHandling2(input){
  
 }
 
+
+//
 dataHandling2(["0001", "Roman Alamsyah", "Bandar Lampung", "21/05/1989", "Membaca"])

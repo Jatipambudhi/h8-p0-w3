@@ -7,4 +7,5 @@ function balikString(kata){
   return newKata
 }
 
+// TEST CASES //
 console.log(balikString("Hello World!"))
